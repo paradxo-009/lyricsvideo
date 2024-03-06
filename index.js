@@ -11,7 +11,7 @@ let usedUrls = [];
 app.use(bodyParser.json());
 
 
-app.get('/haker', (req, res) => {
+app.get('/kshitiz', (req, res) => {
   
   const tiktokUrls = [
     'https://www.tiktok.com/@sizan_babe7/video/7273384579858205959?is_from_webapp=1&sender_device=pc',
